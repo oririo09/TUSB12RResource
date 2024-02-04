@@ -1,0 +1,1 @@
+# TUSB12RResource
